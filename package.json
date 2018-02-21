@@ -63,7 +63,11 @@
   "dependencies": {
     "core-js": "^2.0.0",
     "normalize.css": "^4.0.0",
+    "rc-datepicker": "^5.0.10",
     "react": "^15.0.0",
-    "react-dom": "^15.0.0"
+    "react-dom": "^15.0.0",
+    "react-stepzilla": "^4.7.0",
+    "tcomb-form": "^0.9.19",
+    "tcomb-form-templates-semantic": "^0.2.0"
   }
 }
