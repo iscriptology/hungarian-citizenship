@@ -1,5 +1,6 @@
 /* Base Application Styles */
 body {
+  direction: rtl;
   color: #000;
   background: #ccc;
 }

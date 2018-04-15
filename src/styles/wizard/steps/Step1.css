@@ -1,3 +1,7 @@
 .step1-component {
 
 }
+
+.Select-input input{
+  border:none !important;
+}

@@ -15,10 +15,10 @@ class WizardComponent extends React.Component {
     return (
       <div className='step-progress'>
         <StepZilla steps={[
-          {name: 'First', component: <Step1Component/> },
-          {name: '...Now this', component: <Step2Component/> },
-          {name: 'You\'r getting there', component: <Step3Component/> },
-          {name: 'And finally...', component: <Step4Component/> }
+          {name: 'אתה', component: <Step1Component/> },
+          {name: 'ההורים שלך', component: <Step2Component/> },
+          {name: 'קצת מסביב', component: <Step3Component/> },
+          {name: 'סיימנו!', component: <Step4Component/> }
           ]}/>
       </div>
     );
